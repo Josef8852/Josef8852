@@ -56,7 +56,9 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+49015208622617)
 
 
+### 📊 Stats
 
+![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josef8852&show_icons=true&theme=gruvbox)
 
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
