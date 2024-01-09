@@ -11,13 +11,6 @@
 
 
 <br/>
-
-
-<h3>🚀 About Me</h3> 
-<h4> I'm a junior front-end developer based in Germany, passionate about creating beautiful and functional websites. I have several projects on my GitHub account, where I showcase my skills in HTML, CSS, and JavaScript.
- </h4>
-
-
 	
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
@@ -58,9 +51,10 @@
 ![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josef8852&show_icons=true&theme=gruvbox)
 
 
+![](https://komarev.com/ghpvc/?username=Josef8852) 
+
+
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josef8852&layout=compact)](https://github.com/Josef8852/github-readme-stats)
 
