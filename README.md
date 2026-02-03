@@ -30,15 +30,6 @@
 </p>
 <br/><br/><br/>
 
----
-
-### 🎮 Fun Fact
-I enjoy experimenting with coding challenges and building **games using SFML**.  
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-// >>> [ '🐔', '🐣', '🐥', '🥚' ]
 
 
 
