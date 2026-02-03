@@ -8,11 +8,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="35" height="35" alt="Stack Overflow"/>
     </a>
   </p>
-  <p>
   <a href="https://www.linkedin.com/in/josef-shady-86b7873aa/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
     </a>
-  </p>
 </p>
 
 ---
