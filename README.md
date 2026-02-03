@@ -23,19 +23,8 @@
 
 ---
 
-### 📊 GitHub Stats 
-<p align="left">
-  <a href="https://github.com/Josef8852">
-    <img src="https://img.shields.io/github/followers/Josef8852?label=Followers&style=flat-square&color=blue" alt="Followers"/>
-  </a>
-  <a href="https://github.com/Josef8852?tab=repositories">
-    <img src="https://img.shields.io/github/repos/Josef8852?label=Repositories&style=flat-square&color=green" alt="Repositories"/>
-  </a>
-  <a href="https://github.com/Josef8852">
-    <img src="https://img.shields.io/github/stars/Josef8852?label=Stars&style=flat-square&color=yellow" alt="Stars"/>
-  </a>
-</p>
-<br/><br/><br/>
+### 📊 GitHub Stats
+[![Josef's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Josef8852)](https://github.com/Josef8852/github-readme-stats-fast)
 
 
 
