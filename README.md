@@ -7,15 +7,25 @@
 
 ---
 
-### 🛠 Languages & Tools
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://www.sfml-dev.org/images/logo.png" alt="SFML" width="125" height="125"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+### 🛠 Skills
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/><br>C++</td>
+    <td align="center"><img src="https://www.sfml-dev.org/images/logo.png" width="50" height="50"/><br>SFML</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/><br>React</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/><br>TypeScript</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/><br>Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/><br>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/><br>Linux</td>
+    <td align="center"><img src="https://logo.svgcdn.com/logos/ubuntu.png" width="50" height="50"/><br>Ubuntu</td>
+  </tr>
+</table>
 
 ---
 
@@ -29,11 +39,6 @@
 
 ### 📊 GitHub Stats
 [![Josef's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Josef8852&theme=dark)](https://github.com/Josef8852/github-readme-stats-fast)
-
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Josef8852&theme=dark)
-
 
 
 
