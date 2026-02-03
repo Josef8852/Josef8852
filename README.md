@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Josef8852&label=Profile%20views&color=0e75b6&style=flat" alt="Josef8852" />
   <a href="https://stackoverflow.com/users/20685418/josef-shady" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="35" height="35" alt="Stack Overflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" style="margin-right:10px" width="35" height="35" alt="Stack Overflow"/>
     </a>
       <a href="https://www.linkedin.com/in/josef-shady-86b7873aa/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
