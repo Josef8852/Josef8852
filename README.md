@@ -25,6 +25,8 @@
   <img src="https://logo.svgcdn.com/logos/ubuntu.png" alt="Ubuntu" width="40" height="40"/>
 </p>
 ---
+
+
 ### 📊 GitHub Stats
 [![Josef's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Josef8852&theme=dark)](https://github.com/Josef8852/github-readme-stats-fast)
 
