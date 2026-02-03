@@ -25,10 +25,18 @@
 
 ### 📊 GitHub Stats 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/Josef8852?label=Followers&style=flat-square&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/github/repos/Josef8852?label=Repositories&style=flat-square&color=green" alt="Repositories"/>
-  <img src="https://img.shields.io/github/languages/top/Josef8852?label=Top%20Language&style=flat-square&color=orange" alt="Top Language"/>
-  <img src="https://img.shields.io/github/commit-activity/w/Josef8852?label=Commits&style=flat-square&color=red" alt="Commits"/>
+  <a href="https://github.com/Josef8852">
+    <img src="https://img.shields.io/github/followers/Josef8852?label=Followers&style=flat-square&color=blue" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Josef8852?tab=repositories">
+    <img src="https://img.shields.io/github/repos/Josef8852?label=Repositories&style=flat-square&color=green" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/Josef8852">
+    <img src="https://img.shields.io/github/languages/top/Josef8852?label=Top%20Language&style=flat-square&color=orange" alt="Top Language"/>
+  </a>
+  <a href="https://github.com/Josef8852">
+    <img src="https://img.shields.io/github/commit-activity/w/Josef8852?label=Commits&style=flat-square&color=red" alt="Commits"/>
+  </a>
 </p>
 <br/><br/><br/>
 
