@@ -7,26 +7,18 @@
 
 ---
 
-### 🔗 Connect with me
-<p align="left">
-  <a href="mailto:josefaboshady2@gmail.com">Gmail</a> •
-  <a href="https://api.whatsapp.com/send?phone=+49015208622617">WhatsApp</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> •
-  <a href="https://github.com/Josef8852">GitHub</a>
-</p>
-
----
-
 ### 🛠 Languages & Tools
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://www.sfml-dev.org/images/logo.png" alt="SFML" width="125" height="125"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.sfml-dev.org/images/logo.png" alt="SFML" width="100" height="100"/>
+
 </p>
 
 ---
@@ -49,11 +41,6 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 // >>> [ '🐔', '🐣', '🐥', '🥚' ]
 
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript:
 
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-// >>> [ '🐔', '🐣', '🐥', '🥚' ]
 
 
