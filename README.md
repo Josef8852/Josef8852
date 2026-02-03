@@ -25,8 +25,8 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Josef8852&show_icons=true&theme=gruvbox" alt="Josef8852" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josef8852&layout=compact" alt="Top Languages" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Josef8852&show_icons=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josef8852&layout=compact)
 </p>
 <br/><br/><br/>
 
