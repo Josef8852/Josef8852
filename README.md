@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://www.sfml-dev.org/images/logo.png" width="125" height="125"/>
+      <img src="https://www.sfml-dev.org/images/logo.png" width="88" height="88"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
@@ -39,7 +39,9 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
     </td>
-    <td></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+    </td>
   </tr>
 </table>
 
