@@ -23,10 +23,12 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Josef8852&show_icons=true&theme=gruvbox&token=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" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josef8852&layout=compact&token=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" />
+### 📊 GitHub Stats 
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Josef8852?label=Followers&style=flat-square&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/repos/Josef8852?label=Repositories&style=flat-square&color=green" alt="Repositories"/>
+  <img src="https://img.shields.io/github/languages/top/Josef8852?label=Top%20Language&style=flat-square&color=orange" alt="Top Language"/>
+  <img src="https://img.shields.io/github/commit-activity/w/Josef8852?label=Commits&style=flat-square&color=red" alt="Commits"/>
 </p>
 <br/><br/><br/>
 
