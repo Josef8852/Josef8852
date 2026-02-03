@@ -32,10 +32,7 @@
     <img src="https://img.shields.io/github/repos/Josef8852?label=Repositories&style=flat-square&color=green" alt="Repositories"/>
   </a>
   <a href="https://github.com/Josef8852">
-    <img src="https://img.shields.io/github/languages/top/Josef8852?label=Top%20Language&style=flat-square&color=orange" alt="Top Language"/>
-  </a>
-  <a href="https://github.com/Josef8852">
-    <img src="https://img.shields.io/github/commit-activity/w/Josef8852?label=Commits&style=flat-square&color=red" alt="Commits"/>
+    <img src="https://img.shields.io/github/stars/Josef8852?label=Stars&style=flat-square&color=yellow" alt="Stars"/>
   </a>
 </p>
 <br/><br/><br/>
