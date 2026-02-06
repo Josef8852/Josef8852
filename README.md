@@ -34,6 +34,7 @@
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vite.svg" alt="Vite" width="50" height="50">
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
@@ -47,7 +48,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
     </td>
 <td>
-<img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.svg" width="50" height="50" alt="Zed IDE">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualstudiocode.svg" alt="VS Code" width="50" height="50">
 </td>
   </tr>
 </table>
