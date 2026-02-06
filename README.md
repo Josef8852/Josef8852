@@ -47,7 +47,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/zed-industries/zed/master/assets/zed-logo.svg" alt="Zed" width="40"/>
     </td>
   </tr>
 </table>
