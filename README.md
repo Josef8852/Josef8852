@@ -46,9 +46,9 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
     </td>
-    <td>
-<img src="https://user-images.githubusercontent.com/11882334/165997413-8ed50f7e-3b77-44cd-817b-80a29e1f2d1b.png" alt="Zed" width="50"/>
-    </td>
+  <td align="center">
+  <img src="https://user-images.githubusercontent.com/11882334/165997413-8ed50f7e-3b77-44cd-817b-80a29e1f2d1b.png" alt="Zed" width="50"/>
+</td>
   </tr>
 </table>
 
