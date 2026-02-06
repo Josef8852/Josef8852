@@ -48,7 +48,7 @@
     </td>
 <td>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.svg" alt="zed" width="40" height="40"/>
+  <img src="https://zed.dev/brand/logo-pure-black.svg" alt="Zed IDE" width="40" height="40"/>
 </td>
   </tr>
 </table>
