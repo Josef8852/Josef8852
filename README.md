@@ -47,7 +47,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
     </td>
 <td>
-  <img src="https://cdn.jsdelivr.net/gh/zed-industries/zed@master/assets/zed-logo.png" alt="Zed" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Zed_Editor_Logo.png" alt="Zed Editor Logo" width="50" />
 </td>
   </tr>
 </table>
