@@ -18,7 +18,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" alt="C++"/>
     </td>
     <td align="center">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="100" height="100" alt="JavaScript"/>
