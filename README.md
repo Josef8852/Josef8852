@@ -21,7 +21,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
     </td>
     <td align="center">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" alt="JavaScript"/>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="120" height="120" alt="JavaScript"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
