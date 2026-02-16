@@ -21,7 +21,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
     </td>
     <td align="center">
-        <img src="https://camo.githubusercontent.com/739ff4cc642d6d72a274d75aa0a16d85782c91011453641c1bcc47d872faf42d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732-69636f6e.svg" width="50" height="50" alt="JavaScript"/>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
