@@ -25,7 +25,6 @@
     </td>
     <td align="center">
      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="90" height="90" alt="TypeScript"/>
-
     </td>
   </tr>
   <tr>
