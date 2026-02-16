@@ -32,7 +32,7 @@
       <img src="https://www.sfml-dev.org/images/logo.png" width="88" height="88"/>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="50" height="50"/>
     </td>
     <td align="center">
