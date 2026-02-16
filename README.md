@@ -33,10 +33,10 @@
     </td>
     <td align="center">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
-    <img src="https://raw.githubusercontent.com/vitejs/art/main/logo.svg" width="50" height="50" alt="Vite"/>
+<img src="https://cdn.jsdelivr.net/gh/vitejs/art/logo.svg" width="50" height="50" alt="Vite"/>
     </td>
     <td align="center">
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.64d6ad6a.svg" width="50" height="50" alt="TailwindCSS"/>
+<img src="https://cdn.jsdelivr.net/gh/tailwindlabs/tailwindcss-mark/mark.svg" width="50" height="50" alt="TailwindCSS"/>
     </td>
   </tr>
   <tr>
