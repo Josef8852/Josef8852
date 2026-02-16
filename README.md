@@ -33,7 +33,7 @@
     </td>
     <td align="center">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vite.svg" width="50" height="50" alt="Vite"/>
+<img src="https://raw.githubusercontent.com/vitejs/art/main/logo.svg" width="50" height="50" alt="Vite"/>
     </td>
     <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/tailwindlabs/tailwindcss-mark/mark.svg" width="50" height="50" alt="TailwindCSS"/>
