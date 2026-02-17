@@ -33,6 +33,7 @@
     </td>
     <td align="center">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/>
     </td>
     <td align="center">
