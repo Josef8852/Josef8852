@@ -71,5 +71,5 @@
 ### 📊 GitHub Stats
 [![Josef's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Josef8852&theme=dark)](https://github.com/Josef8852/github-readme-stats-fast)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josef8852&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josef8852&layout=compact&theme=dark" />
 </a>
