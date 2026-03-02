@@ -69,7 +69,19 @@
 
 
 ### 📊 GitHub Stats
-[![Josef's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Josef8852&theme=dark)](https://github.com/Josef8852/github-readme-stats-fast)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josef8852&layout=compact&theme=dark" />
-</a>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/Josef8852/github-readme-stats-fast">
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=Josef8852&theme=dark" alt="Josef's GitHub stats" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josef8852&layout=compact&theme=dark" alt="Most Used Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
