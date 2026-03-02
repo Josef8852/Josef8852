@@ -70,5 +70,5 @@
 
 ### 📊 GitHub Stats
 [![Josef's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Josef8852&theme=dark)](https://github.com/Josef8852/github-readme-stats-fast)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josef8852&layout=compact&theme=dark" />
 
