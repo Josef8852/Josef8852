@@ -85,4 +85,3 @@
     </tr>
   </table>
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Josef8852&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
