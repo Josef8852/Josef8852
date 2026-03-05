@@ -49,7 +49,7 @@
     </td>
 <td>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
-![Zed](https://img.shields.io/badge/Zed-black?style=for-the-badge&logo=zed-industries&logoColor=white)
+<img src="https://cdn.simpleicons.org/zedindustries/ffffff" width="50" height="50" alt="Zed Editor" />
 </td>
   </tr>
 </table>
