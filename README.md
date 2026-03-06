@@ -9,6 +9,11 @@
 </p>
 
 ---
+### 🔭 Current Focus
+- 🎓 **Studies:** Computer Science at **TU Dortmund**.
+- ⚡ **Learning:** : **Next.js** 
+- 🤝 **Open Source:** Actively looking for repositories to contribute to and improve.
+
 
 ### 🛠 Skills
 
