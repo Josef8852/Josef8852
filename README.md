@@ -16,6 +16,7 @@
   <tr>
     <td align="center">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="90" height="90" alt="C++"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="50" height="50"/>
     </td>
     <td align="center">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="90" height="90" alt="JavaScript"/>
