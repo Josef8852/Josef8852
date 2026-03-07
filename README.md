@@ -77,14 +77,14 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%">
+      <td width="50%"> 
         <a href="https://github.com/Josef8852/github-readme-stats-fast">
-          <img src="https://github-readme-stats-fast.vercel.app/api?username=Josef8852&theme=dark" alt="Josef's GitHub stats" />
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=Josef8852&theme=nightowl&count_private=true&show_icons=true" alt="Josef's GitHub stats" />
         </a>
       </td>
       <td width="50%">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josef8852&layout=compact&theme=dark" alt="Most Used Languages" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josef8852&layout=compact&theme=nightowl" alt="Most Used Languages" />
         </a>
       </td>
     </tr>
