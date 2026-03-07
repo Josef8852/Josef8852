@@ -1,97 +1,11 @@
-<h1 align="center">Hi 👋, I'm Josef</h1>
-<h3 align="center">Computer Science Student at TU Dortmund | Aspiring Software Engineer</h3>
+# Project Title
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Josef8852&label=Profile%20views&color=0e75b6&style=flat" alt="Josef8852" />
-      <a href="https://www.linkedin.com/in/josef-shady-86b7873aa/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
-    </a>
-</p>
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Josef8852&show_icons=true&theme=dracula)
 
----
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josef8852&theme=dracula)
 
+## Description
 
-
-### 🛠 Skills
-
-<table align="center">
-  <tr>
-    <td align="center">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="90" height="90" alt="C++"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="50" height="50"/>
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="90" height="90" alt="JavaScript"/>
-    </td>
-    <td align="center">
-     <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="90" height="90" alt="TypeScript"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://www.sfml-dev.org/images/logo.png" width="88" height="88"/>
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
-     <img src="https://reactrouter.com/favicon-light.png" alt="React Router" width="50" height="50" />  
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/>
-    </td>
-    <td align="center">
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/>
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/styled-components.png" alt="styled-components" title="styled-components"/>
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass" title="Sass"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
-    </td>
-<td>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/zedindustries/ffffff" width="50" height="50" alt="Zed Editor" />
-</td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-## Operating System
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://logo.svgcdn.com/logos/ubuntu.png" alt="Ubuntu" width="40" height="40"/>
-</p>
-
-
-
-### 📊 GitHub Stats
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Josef8852/github-readme-stats-fast">
-          <img src="https://github-readme-stats-fast.vercel.app/api?username=Josef8852&theme=dark" alt="Josef's GitHub stats" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josef8852&layout=compact&theme=dark" alt="Most Used Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🔭 Current Focus
-- 🎓 **Studies:** Computer Science at **TU Dortmund**.
-- ⚡ **Learning:** : **Next.js** 
-- 🤝 **Open Source:** Actively looking for repositories to contribute to and improve.
+This is the sample README for project documentation.
