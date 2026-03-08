@@ -98,6 +98,9 @@
   </table>
 </div>
 
+### Contribution Graph
+[![Josef8852's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Josef8852&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 🔭 Current Focus
 - 🎓 **Studies:** Computer Science at **TU Dortmund**.
 - ⚡ **Learning:** : **Next.js** 
