@@ -33,7 +33,8 @@
     </td>
     <td align="center">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
-     <img src="https://reactrouter.com/favicon-light.png" alt="React Router" width="50" height="50" />  
+     <img src="https://reactrouter.com/favicon-light.png" alt="React Router" width="50" height="50" /> 
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" alt="React Query" title="React Query"/>
       <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/>
     </td>
