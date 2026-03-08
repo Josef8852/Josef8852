@@ -3,9 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Josef8852&label=Profile%20views&color=0e75b6&style=flat" alt="Josef8852" />
-      <a href="https://www.linkedin.com/in/josef-shady-86b7873aa/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
-    </a>
 </p>
 
 ---
@@ -117,3 +114,23 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px" alt="Octodex Gif"/>
 </div>
+
+---
+
+### 📫 Contact Me
+
+<p align="center" style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+
+ 
+
+  <!-- Gmail -->
+   <a href="mailto:josefaboushady@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail" title="Personal Gmail"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/josef-shady-86b7873aa/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+
+</p>
