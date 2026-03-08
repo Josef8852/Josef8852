@@ -121,7 +121,9 @@
 
 <p align="center" style="display: flex; gap: 20px; justify-content: center; align-items: center;">
 
- 
+ <a href="mailto:josef.shady@tu-dortmund.de" target="_blank">
+  <img src="https://raw.githubusercontent.com/Josef8852/Josef8852/main/tudrotmundsvg.svg" width="40" height="40" alt="TU Dortmund Email" title="TU Dortmund Email"/>
+</a>
 
   <!-- Gmail -->
    <a href="mailto:josefaboushady@gmail.com" target="_blank">
