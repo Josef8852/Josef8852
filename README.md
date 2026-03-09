@@ -14,6 +14,10 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
   <img src="https://komarev.com/ghpvc/?username=Josef8852&label=Profile%20views&color=0e75b6&style=flat" alt="Josef8852" />
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+TU+Dortmund;Junior+Software+Engineer;Linux+Enthusiast">
+</p>
+
 ---
 
 
