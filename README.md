@@ -119,20 +119,22 @@
 
 ### 📫 Contact Me
 
-<p align="center" style="display: flex; gap: 20px; justify-content: center; align-items: center;">
-
- <a href="mailto:josef.shady@tu-dortmund.de" target="_blank">
-  <img src="https://raw.githubusercontent.com/Josef8852/Josef8852/main/tudrotmundsvg.svg" width="40" height="40" alt="TU Dortmund Email" title="TU Dortmund Email"/>
-</a>
-
-
-  <a href="mailto:josefaboushady@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" title="Personal Gmail"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/josef-shady-86b7873aa/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
-  </a>
-
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:josef.shady@tu-dortmund.de" target="_blank">
+        <img src="https://raw.githubusercontent.com/Josef8852/Josef8852/main/tudrotmundsvg.svg" width="40" height="40" alt="TU Dortmund Email" title="TU Dortmund Email"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:josefaboushady@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" title="Personal Gmail"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/josef-shady-86b7873aa/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
+      </a>
+    </td>
+  </tr>
+</table>
