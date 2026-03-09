@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Josef</h1>
-<h3 align="center">Computer Science Student at TU Dortmund | Aspiring Software Engineer</h3>
+<h3 align="center">
+Computer Science Student at TU Dortmund  
+Passionate about Software Engineering, C++ Systems Programming and Modern Web Development
+</h3>
 
 <table align="center">
   <tr>
