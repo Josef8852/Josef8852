@@ -125,14 +125,14 @@
   <img src="https://raw.githubusercontent.com/Josef8852/Josef8852/main/tudrotmundsvg.svg" width="40" height="40" alt="TU Dortmund Email" title="TU Dortmund Email"/>
 </a>
 
-  <!-- Gmail -->
-   <a href="mailto:josefaboushady@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail" title="Personal Gmail"/>
+
+  <a href="mailto:josefaboushady@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" title="Personal Gmail"/>
   </a>
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/josef-shady-86b7873aa/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
   </a>
+
 
 </p>
