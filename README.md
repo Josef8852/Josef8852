@@ -36,50 +36,32 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 
 <table align="center">
   <tr>
-    <td align="center">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="90" height="90" alt="C++"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="50" height="50"/>
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="90" height="90" alt="JavaScript"/>
-    </td>
-    <td align="center">
-     <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="90" height="90" alt="TypeScript"/>
-    </td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="90" height="90" alt="C++"/></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="50" height="50" alt="CMake"/></td>
+        <td align="center"><img src="https://www.sfml-dev.org/images/logo.png" width="88" height="88" alt="SFML"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="90" height="90" alt="JavaScript"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="90" height="90" alt="TypeScript"/></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://www.sfml-dev.org/images/logo.png" width="88" height="88"/>
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
-     <img src="https://reactrouter.com/favicon-light.png" alt="React Router" width="50" height="50" /> 
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" alt="React Query" title="React Query"/>
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/>
-    </td>
-    <td align="center">
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/>
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/styled-components.png" alt="styled-components" title="styled-components"/>
-      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass" title="Sass"/>
-    </td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/></td>
+    <td align="center"><img src="https://reactrouter.com/favicon-light.png" width="50" height="50" alt="React Router"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" width="50" height="50" alt="React Query"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" width="50" height="50" alt="Redux"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" width="50" height="50" alt="Vite"/></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
-    </td>
-<td>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/zedindustries/ffffff" width="50" height="50" alt="Zed Editor" />
-</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="50" height="50" alt="Tailwind CSS"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/styled-components.png" width="50" height="50" alt="styled-components"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="50" height="50" alt="CSS"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" width="50" height="50" alt="Sass"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode"/></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/zedindustries/ffffff" width="50" height="50" alt="Zed Editor"/></td>
   </tr>
 </table>
-
 
 ---
 
