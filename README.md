@@ -105,7 +105,7 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 ### 🔭 Current Focus
 - 🎓 **Studies:** Computer Science at **TU Dortmund**.
 - ⚡ **Learning:** : **Next.js , SQL , Backend Development** 
-- 🤝 **Open Source:** 🤝 Interested in open source collaboration
+- 🤝 **Open Source:**  Interested in open source collaboration
 
 
 ---
