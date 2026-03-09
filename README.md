@@ -37,10 +37,10 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 <table align="center">
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="90" height="90" alt="C++"/></td>
-        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="50" height="50" alt="CMake"/></td>
-        <td align="center"><img src="https://www.sfml-dev.org/images/logo.png" width="88" height="88" alt="SFML"/></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="90" height="90" alt="JavaScript"/></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="90" height="90" alt="TypeScript"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="50" height="50" alt="CMake"/></td>
+    <td align="center"><img src="https://www.sfml-dev.org/images/logo.png" width="88" height="88" alt="SFML"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript"/></td>
   </tr>
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/></td>
