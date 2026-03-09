@@ -78,22 +78,25 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 
 ### 📊 GitHub Stats
 <div align="center">
-  <table border="0">
+  <table border="0" width="80%">
     <tr>
-      <td width="50%"> 
+      <td align="center">
         <a href="https://github.com/Josef8852/github-readme-stats-fast">
-          <img src="https://github-readme-stats-fast.vercel.app/api?username=Josef8852&theme=tokyonight&count_private=true&show_icons=true" alt="Josef's GitHub stats" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josef8852&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=Josef8852&theme=tokyonight&count_private=true&show_icons=true" alt="Josef's GitHub stats" width="80%" />
         </a>
       </td>
     </tr>
-      <td width="50%">
+    <tr>
+      <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josef8852&theme=tokyonight" alt="Josef8852 Streak Stats" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josef8852&layout=compact&theme=tokyonight" alt="Most Used Languages" width="80%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josef8852&theme=tokyonight" alt="Streak Stats" width="80%" />
         </a>
       </td>
     </tr>
