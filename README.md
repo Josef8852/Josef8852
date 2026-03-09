@@ -4,25 +4,27 @@ Computer Science Student at TU Dortmund
 Passionate about Software Engineering, C++ Systems Programming and Modern Web Development
 </h3>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="mailto:josef.shady@tu-dortmund.de" target="_blank">
-        <img src="https://raw.githubusercontent.com/Josef8852/Josef8852/main/tudrotmundsvg.svg" width="40" height="40" alt="TU Dortmund Email" title="TU Dortmund Email"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:josefaboushady@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" title="Personal Gmail"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/josef-shady-86b7873aa/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <a href="mailto:josef.shady@tu-dortmund.de" target="_blank">
+          <img src="https://raw.githubusercontent.com/Josef8852/Josef8852/main/tudrotmundsvg.svg" width="40" height="40" alt="TU Dortmund Email" title="TU Dortmund Email"/>
+        </a>
+      </td>
+      <td>
+        <a href="mailto:josefaboushady@gmail.com" target="_blank">
+          <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" title="Personal Gmail"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/josef-shady-86b7873aa/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Josef8852&label=Profile%20views&color=0e75b6&style=flat" alt="Josef8852" />
