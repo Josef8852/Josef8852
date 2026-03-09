@@ -56,8 +56,8 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 
 ### Operating System
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://logo.svgcdn.com/logos/ubuntu.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70"/>
+  <img src="https://logo.svgcdn.com/logos/ubuntu.png" width="70"/>
 </p>
 
 
