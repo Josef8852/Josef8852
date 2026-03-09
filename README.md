@@ -1,6 +1,26 @@
 <h1 align="center">Hi 👋, I'm Josef</h1>
 <h3 align="center">Computer Science Student at TU Dortmund | Aspiring Software Engineer</h3>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:josef.shady@tu-dortmund.de" target="_blank">
+        <img src="https://raw.githubusercontent.com/Josef8852/Josef8852/main/tudrotmundsvg.svg" width="40" height="40" alt="TU Dortmund Email" title="TU Dortmund Email"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:josefaboushady@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" title="Personal Gmail"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/josef-shady-86b7873aa/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Josef8852&label=Profile%20views&color=0e75b6&style=flat" alt="Josef8852" />
 </p>
@@ -104,37 +124,22 @@
 
 ### 🔭 Current Focus
 - 🎓 **Studies:** Computer Science at **TU Dortmund**.
-- ⚡ **Learning:** : **Next.js** 
-- 🤝 **Open Source:** Actively looking for repositories to contribute to and improve.
+- ⚡ **Learning:** : **Next.js , SQL , Backend Development** 
+- 🤝 **Open Source:** 🤝 Interested in open source collaboration
+
 
 ---
+
+### ⚡ Fun Facts
+
+- ♟ Chess player (Lichess rating ~1700)
+- 🐧 Linux enthusiast
+- 🎮 Interested in game development with C++
+
+- ---
 
 ### ✍️ Random Dev Quote
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px" alt="Octodex Gif"/>
 </div>
-
----
-
-### 📫 Contact Me
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="mailto:josef.shady@tu-dortmund.de" target="_blank">
-        <img src="https://raw.githubusercontent.com/Josef8852/Josef8852/main/tudrotmundsvg.svg" width="40" height="40" alt="TU Dortmund Email" title="TU Dortmund Email"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:josefaboushady@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" title="Personal Gmail"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/josef-shady-86b7873aa/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
-      </a>
-    </td>
-  </tr>
-</table>
