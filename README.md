@@ -116,7 +116,7 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 - 🐧 Linux enthusiast
 - 🎮 Interested in game development with C++
 
-- ---
+---
 
 ### ✍️ Random Dev Quote
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
