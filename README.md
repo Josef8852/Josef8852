@@ -95,7 +95,7 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 ---
 
 ### Contribution Graph
-[![Josef8852's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Josef8852&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Josef8852's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Josef8852&theme=tokyo-night&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
