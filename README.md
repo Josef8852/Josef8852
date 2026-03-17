@@ -5,7 +5,7 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 </h3>
 
 <div align="center">
-  <a href="mailto:josef.shady@tu-dortmund.de" target="_blank"><img src="https://raw.githubusercontent.com/Josef8852/Josef8852/main/tudrotmund.svg" width="40" height="40" alt="TU Dortmund Email" title="TU Dortmund Email"/></a>&nbsp;&nbsp;<a href="mailto:josefaboushady@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" title="Personal Gmail"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/josef-shady-86b7873aa/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" title="LinkedIn"/></a>
+  <a href="mailto:josef.shady@tu-dortmund.de" target="_blank"><img src="https://raw.githubusercontent.com/Josef8852/Josef8852/main/tudortmund.svg" width="40" height="40" alt="TU Dortmund Email" title="TU Dortmund Email"/></a>&nbsp;&nbsp;<a href="mailto:josefaboushady@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" title="Personal Gmail"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/josef-shady-86b7873aa/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" title="LinkedIn"/></a>
 </div>
 
 <br/>
@@ -103,6 +103,11 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 - 🎓 **Studies:** Computer Science at **TU Dortmund**.
 - ⚡  **Learning:** Next.js, SQL, and Backend Development
 - 🤝 **Open Source:**  Interested in open source collaboration
+
+---
+
+### 🎯 Goals
+- 💼 Seeking Werkstudent / Internship in Software Engineering
 
 
 ---
