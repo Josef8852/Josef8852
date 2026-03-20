@@ -86,7 +86,7 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
     <tr>
       <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://streak-stats.demolab.com?user=Josef8852&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Josef8852&theme=tokyonight/>
         </a>
       </td>
     </tr>
@@ -94,7 +94,7 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 </div>
 
 ### Contribution Graph
-[![Josef8852's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Josef8852&theme=react-dark&area=true&cache=reset)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Josef8852's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Josef8852&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
