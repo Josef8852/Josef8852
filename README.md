@@ -86,7 +86,7 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
     <tr>
       <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://streak-stats.demolab.com?user=Josef8852&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Josef8852&theme=tokyonight&v=1" alt="GitHub Streak Stats" />
         </a>
       </td>
     </tr>
