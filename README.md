@@ -46,10 +46,7 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/></td>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/></td>
   </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode"/></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/zedindustries/ffffff" width="50" height="50" alt="Zed Editor"/></td>
-  </tr>
+
 </table>
 
 ---
@@ -57,10 +54,11 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 
 
 
-### Operating System
-<p align="center">
+### Operating System and IDE
+<p align="center" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
   <img src="https://logo.svgcdn.com/logos/ubuntu.png" width="50"/>
+  <img src="https://cdn.simpleicons.org/zedindustries/ffffff" width="50" height="50" alt="Zed Editor"/>
 </p>
 
 
