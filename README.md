@@ -33,20 +33,22 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript"/></td>
   </tr>
   <tr>
+    <td align="center"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></td>
     <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/></td>
     <td align="center"><img src="https://reactrouter.com/favicon-light.png" width="50" height="50" alt="React Router"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" width="50" height="50" alt="React Query"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" width="50" height="50" alt="Redux"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" width="50" height="50" alt="Vite"/></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" width="50" height="50" alt="Vite"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="50" height="50" alt="Tailwind CSS"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="50" height="50" alt="CSS"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" width="50" height="50" alt="Sass"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/></td>
-        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/></td>
   </tr>
-
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/></td>
+  </tr>
 </table>
 
 ---
