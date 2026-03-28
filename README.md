@@ -24,7 +24,7 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 
 ### 🛠 Skills
 <div align="center" >
-  <img src="https://skills.syvixor.com/api/icons?perline=6&i=c,cpp,javascript,typescript,cmake,nodejs,reactjs,redux,nextjs,reactquery,reactrouter,vite,css3,sass,tailwindcss,git,bash"/>
+  <img src="https://skills.syvixor.com/api/icons?perline=6&i=c,cpp,javascript,typescript,cmake,nodejs,reactjs,redux,nextjs,reactquery,reactrouter,vite,css3,sass,tailwindcss,styledcomponents,git,bash"/>
 </div>
   
 
