@@ -23,33 +23,12 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 
 
 ### 🛠 Skills
+<div align="center" >
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=c,cpp,cmake,javascript,typescript,nodejs,reactjs,redux,nextjs,reactquery,reactrouter,vite,css3,sass,tailwindcss,git,bash"/>
+</div>
+  
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="90" height="90" alt="C++"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="50" height="50" alt="CMake"/></td>
-    <td align="center"><img src="https://www.sfml-dev.org/images/logo.png" width="88" height="88" alt="SFML"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/></td>
-    <td align="center"><img src="https://reactrouter.com/favicon-light.png" width="50" height="50" alt="React Router"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" width="50" height="50" alt="React Query"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" width="50" height="50" alt="Redux"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" width="50" height="50" alt="Vite"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="50" height="50" alt="Tailwind CSS"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="50" height="50" alt="CSS"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" width="50" height="50" alt="Sass"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/></td>
-  </tr>
-</table>
+</div>
 
 ---
 
@@ -57,11 +36,9 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 
 
 ### Operating System and IDE
-<p align="center" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-  <img src="https://logo.svgcdn.com/logos/ubuntu.png" width="50"/>
-  <img src="https://cdn.simpleicons.org/zedindustries/ffffff" width="50" height="50" alt="Zed Editor"/>
-</p>
+<div align="center" >
+  <img src="https://skills.syvixor.com/api/icons?i=linux,ubuntu,zed"/>
+</div>
 
 
 ---
