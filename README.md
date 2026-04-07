@@ -91,7 +91,7 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 
 ### ⚡ Fun Facts
 
-- ♟ Chess player (Lichess rating ~1700)
+- ♟ Chess player (Lichess rating ~1750)
 - 🐧 Linux enthusiast
 - 🎮 Interested in game development with C++
 
