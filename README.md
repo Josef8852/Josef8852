@@ -35,6 +35,7 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 
 
 
+
 ### Operating System and IDE
 <div align="center" >
   <img src="https://skills.syvixor.com/api/icons?i=linux,ubuntu,zed"/>
