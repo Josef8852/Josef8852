@@ -4,23 +4,20 @@ Computer Science Student at TU Dortmund
 Passionate about Software Engineering, C++ Systems Programming and Modern Web Development
 </h3>
 
-
-<table align="center">
+<table width="100%" align="center">
 <tr>
-<td>
-<a href="mailto:josef.shady@tu-dortmund.de">
-<img src="https://raw.githubusercontent.com/Josef8852/Josef8852/main/tudortmund.svg" width="40">
-</a>
-</td>
-<td>
-<a href="mailto:josefaboushady@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40">
-</a>
-</td>
-<td>
-<a href="https://www.linkedin.com/in/josef-shady-86b7873aa/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40">
-</a>
+<td align="center">
+  <a href="mailto:josef.shady@tu-dortmund.de">
+    <img src="https://raw.githubusercontent.com/Josef8852/Josef8852/main/tudortmund.svg" width="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:josefaboushady@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/josef-shady-86b7873aa/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40">
+  </a>
 </td>
 </tr>
 </table>
