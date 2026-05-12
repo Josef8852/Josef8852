@@ -71,7 +71,7 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
     <tr>
       <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josef8852&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117" alt="Most Used Languages" width="80%" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josef8852&layout=compact&langs_count=12&theme=tokyonight&hide_border=false&bg_color=0d1117" alt="Most Used Languages" width="80%" />
         </a>
       </td>
     </tr>
