@@ -107,9 +107,9 @@
         <a href="https://github.com/Josef8852/shell_cpp">
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
         </a>
-        &nbsp;
-        <a href="https://codecrafters.io">
-          <img src="https://img.shields.io/badge/CodeCrafters-F7DF1E?style=for-the-badge&logoColor=black" alt="CodeCrafters"/>
+        <br/><br/>
+        <a href="https://app.codecrafters.io/users/Josef8852">
+          <img src="https://backend.codecrafters.io/progress/shell/Josef8852" alt="CodeCrafters Shell Progress"/>
         </a>
         <br/><br/>
         <img src="https://skills.syvixor.com/api/icons?i=cpp,cmake" height="36" />
