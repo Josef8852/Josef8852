@@ -41,9 +41,9 @@
 </p>
 
 <p align="center">
-  I'm a Computer Science student at TU Dortmund with a passion for building things from the ground up —<br/>
-  whether that's a shell in C++, a full-stack web app, or anything in between.<br/>
-  I enjoy clean code, good architecture, and turning ideas into real working software.
+  🖥️ I build things — from low-level <strong>C++ systems</strong> to full-stack <strong>web apps</strong><br/>
+  ⚡ Obsessed with clean architecture, performance &amp; modern tooling<br/>
+  🐧 Linux native &nbsp;·&nbsp; 🏗️ Always shipping
 </p>
 
 ---
