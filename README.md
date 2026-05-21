@@ -117,6 +117,10 @@
         <a href="https://github.com/Josef8852/react-hotel-website">
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
         </a>
+        &nbsp;
+        <a href="https://react-hotel-website-iota.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a>
         <br/><br/>
         <img src="https://skills.syvixor.com/api/icons?i=nextjs,reactjs,typescript,tailwindcss,supabase" height="36" />
       </td>
@@ -128,6 +132,10 @@
         Features booking analytics, cabin pricing, guest tracking, payment status, and advanced filter &amp; sort — fully responsive.</p>
         <a href="https://github.com/Josef8852/ReactHotel">
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        &nbsp;
+        <a href="https://thereacthotel.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
         </a>
         <br/><br/>
         <img src="https://skills.syvixor.com/api/icons?i=typescript,reactjs,supabase,reactquery,vite" height="36" />
