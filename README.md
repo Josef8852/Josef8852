@@ -30,6 +30,10 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+TU+Dortmund;Junior+Software+Engineer;Linux+Enthusiast">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Werkstudent%20%7C%20Internship-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
+</p>
+
 ---
 
 
@@ -89,6 +93,20 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 
 </div>
 
+
+---
+
+### 🏆 Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Josef8852&theme=tokyonight&row=1&no-bg=true&margin-w=8" alt="Josef's Trophies"/>
+</div>
+
+---
+
+### ⏱ WakaTime Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&bg_color=0d1117&hide_border=false&layout=compact" alt="WakaTime Stats"/>
+</div>
 
 ---
 
