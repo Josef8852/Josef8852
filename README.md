@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:0d1117&height=200&section=header&text=Josef&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Software%20Engineer&descAlignY=60&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:0d1117&height=200&section=header&text=Josef&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Software%20Engineer&descAlignY=60&descSize=22" width="100%"/>
 
 <h3 align="center">Passionate about Software Engineering, C++ Systems Programming and Modern Web Development</h3>
 
