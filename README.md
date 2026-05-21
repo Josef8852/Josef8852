@@ -62,6 +62,31 @@
 
 ---
 
+### 🚀 Projects
+
+<div align="center">
+  <table border="0" width="80%">
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <h3>🐚 Build Your Own Shell</h3>
+        <p>A <strong>CodeCrafters</strong> challenge — built a fully functional POSIX-compliant shell from scratch.<br/>
+        Supports builtins, piping, I/O redirections, and process management.</p>
+        <a href="https://github.com/Josef8852/shell_cpp">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        &nbsp;
+        <a href="https://codecrafters.io">
+          <img src="https://img.shields.io/badge/CodeCrafters-F7DF1E?style=for-the-badge&logoColor=black" alt="CodeCrafters"/>
+        </a>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=cpp,cmake" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 📊 GitHub Stats
 <div align="center">
   <table border="0" width="80%">
