@@ -101,7 +101,7 @@
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
         </a>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=ts,react,supabase,reactquery,vite" height="36" />
+        <img src="https://skillicons.dev/icons?i=ts,react,supabase,vite,reactquery" height="36" />
       </td>
     </tr>
   </table>
