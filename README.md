@@ -79,7 +79,7 @@
           <img src="https://img.shields.io/badge/CodeCrafters-F7DF1E?style=for-the-badge&logoColor=black" alt="CodeCrafters"/>
         </a>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=cpp,cmake" height="36" />
+        <img src="https://skills.syvixor.com/api/icons?i=cpp,cmake" height="36" />
       </td>
       <td align="center" style="padding: 20px;" width="50%">
         <h3>🏨 React Hotel Website</h3>
@@ -89,7 +89,7 @@
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
         </a>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase" height="36" />
+        <img src="https://skills.syvixor.com/api/icons?i=nextjs,reactjs,typescript,tailwindcss,supabase" height="36" />
       </td>
     </tr>
     <tr>
@@ -101,7 +101,7 @@
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
         </a>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=ts,react,supabase,vite,reactquery" height="36" />
+        <img src="https://skills.syvixor.com/api/icons?i=typescript,reactjs,supabase,reactquery,vite" height="36" />
       </td>
     </tr>
   </table>
