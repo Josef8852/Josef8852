@@ -43,7 +43,7 @@
 <p align="center">
   🖥️ I build things — from low-level <strong>C++ systems</strong> to full-stack <strong>web apps</strong><br/>
   ⚡ Obsessed with clean architecture, performance &amp; modern tooling<br/>
-  🐧 Linux native &nbsp;·&nbsp; 🏗️ Always shipping
+  🐧 Daily driving Linux
 </p>
 
 ---
