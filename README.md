@@ -79,7 +79,7 @@
           <img src="https://img.shields.io/badge/CodeCrafters-F7DF1E?style=for-the-badge&logoColor=black" alt="CodeCrafters"/>
         </a>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=cpp,cmake" />
+        <img src="https://skillicons.dev/icons?i=cpp,cmake" height="36" />
       </td>
       <td align="center" style="padding: 20px;" width="50%">
         <h3>🏨 React Hotel Website</h3>
@@ -89,7 +89,19 @@
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
         </a>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase" height="36" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 20px;" colspan="2">
+        <h3>🏨 The React Hotel</h3>
+        <p>A modern hotel management web application for hotel staff — manage bookings, cabins, and guests through a clean dashboard interface.<br/>
+        Features booking analytics, cabin pricing, guest tracking, payment status, and advanced filter &amp; sort — fully responsive.</p>
+        <a href="https://github.com/Josef8852/ReactHotel">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=ts,react,supabase,reactquery,vite" height="36" />
       </td>
     </tr>
   </table>
