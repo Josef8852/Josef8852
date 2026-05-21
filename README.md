@@ -18,8 +18,6 @@
 
 <br/>
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Josef8852&label=Profile%20views&color=0e75b6&style=flat" alt="Josef8852" />
 </p>
@@ -34,26 +32,33 @@
 
 ---
 
-
-
-
 ### 🛠 Skills
-<div align="center" >
+<div align="center">
   <img src="https://skills.syvixor.com/api/icons?perline=6&i=c,cpp,javascript,typescript,cmake,nodejs,reactjs,redux,nextjs,reactquery,reactrouter,vite,css3,sass,tailwindcss,styledcomponents,git,bash,uml"/>
 </div>
 
 ---
 
-
-
-
-
 ### Operating System and IDE
-<div align="center" >
+<div align="center">
   <img src="https://skills.syvixor.com/api/icons?i=linux,ubuntu,kitty,zed"/>
 </div>
 
+---
 
+### 🌍 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/English-C1-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/German-C1-blue?style=for-the-badge" />
+</p>
+
+---
+
+### 🔭 Current Focus & Goals
+- 🎓 **Studies:** Computer Science at **TU Dortmund**
+- ⚡ **Learning:** Next.js, SQL, and Backend Development
+- 🤝 **Open Source:** Interested in open source collaboration
+- 💼 **Seeking:** Werkstudent / Internship in Software Engineering
 
 ---
 
@@ -77,12 +82,14 @@
     <tr>
       <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Josef8852&theme=tokyonight" />
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Josef8852&theme=tokyonight" />
         </a>
       </td>
     </tr>
   </table>
 </div>
+
+---
 
 ### Contribution Graph
 <div align="center">
@@ -90,7 +97,6 @@
 [![Josef8852's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Josef8852&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
 
 ---
 
@@ -101,29 +107,7 @@
 
 ---
 
-### 🔭 Current Focus
-- 🎓 **Studies:** Computer Science at **TU Dortmund**.
-- ⚡  **Learning:** Next.js, SQL, and Backend Development
-- 🤝 **Open Source:**  Interested in open source collaboration
-
----
-
-### 🎯 Goals
-- 💼 Seeking Werkstudent / Internship in Software Engineering
-
-
----
-
-### 🌍 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/English-C1-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/German-C1-blue?style=for-the-badge" />
-</p>
-
----
-
 ### ⚡ Fun Facts
-
 - ♟ Chess player (Lichess rating ~1850)
 - 🐧 Linux enthusiast
 - 🎮 Interested in game development with C++
@@ -135,7 +119,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px" alt="Octodex Gif"/>
 </div>
-
 
 <p align="center">
   <picture>
