@@ -1,10 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Josef&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Software%20Engineer&descAlignY=60&descSize=22" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Josef</h1>
-<h3 align="center">
-Computer Science Student at TU Dortmund  
-Passionate about Software Engineering, C++ Systems Programming and Modern Web Development
-</h3>
+<h3 align="center">Passionate about Software Engineering, C++ Systems Programming and Modern Web Development</h3>
 
 <p align="center">
 &nbsp;
