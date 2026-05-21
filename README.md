@@ -105,7 +105,7 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 
 ### ⏱ WakaTime Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&bg_color=0d1117&hide_border=false&layout=compact" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Josef8852&theme=tokyonight&bg_color=0d1117&hide_border=false&layout=compact" alt="WakaTime Stats"/>
 </div>
 
 ---
