@@ -43,8 +43,25 @@
 ---
 
 ### 🛠 Skills
+
 <div align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=6&i=c,cpp,javascript,typescript,cmake,nodejs,reactjs,redux,nextjs,reactquery,reactrouter,vite,css3,sass,tailwindcss,styledcomponents,git,bash,uml"/>
+
+**⚙️ Languages**
+
+<img src="https://skills.syvixor.com/api/icons?i=c,cpp,javascript,typescript"/>
+
+**🎨 Frontend**
+
+<img src="https://skills.syvixor.com/api/icons?perline=5&i=reactjs,nextjs,redux,reactquery,reactrouter,vite,tailwindcss,sass,css3,styledcomponents"/>
+
+**🖥️ Backend & Runtime**
+
+<img src="https://skills.syvixor.com/api/icons?i=nodejs"/>
+
+**🔧 Tools**
+
+<img src="https://skills.syvixor.com/api/icons?i=cmake,git,bash,uml"/>
+
 </div>
 
 ---
