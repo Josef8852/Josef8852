@@ -113,7 +113,7 @@
     </tr>
     <tr>
       <td align="center" style="padding: 20px;">
-        <h3>🏨 React Hotel Website</h3>
+        <h3>🏨 Full-Stack Cabin Booking Website</h3>
         <p>A full-stack luxury cabin booking platform built with the latest <strong>Next.js App Router</strong> architecture.<br/>
         Google OAuth login, date-range booking, cabin filtering, and full reservation management — zero client-side fetching.</p>
         <a href="https://github.com/Josef8852/react-hotel-website">
@@ -129,7 +129,7 @@
     </tr>
     <tr>
       <td align="center" style="padding: 20px;">
-        <h3>🏨 The React Hotel</h3>
+        <h3>🏨 Hotel Management Dashboard</h3>
         <p>A modern hotel management web application for hotel staff — manage bookings, cabins, and guests through a clean dashboard interface.<br/>
         Features booking analytics, cabin pricing, guest tracking, payment status, and advanced filter &amp; sort — fully responsive.</p>
         <a href="https://github.com/Josef8852/ReactHotel">
