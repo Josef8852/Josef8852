@@ -153,10 +153,10 @@
   <table border="0" width="100%">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=Josef8852&theme=tokyonight&count_private=true&show_icons=true&hide_border=false&bg_color=0d1117" alt="Josef's GitHub stats" width="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Josef8852&theme=tokyonight&count_private=true&show_icons=true&hide_border=false&bg_color=0d1117" alt="Josef's GitHub stats" width="100%" height="200px" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josef8852&layout=compact&langs_count=12&theme=tokyonight&hide_border=false&bg_color=0d1117" alt="Most Used Languages" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josef8852&layout=compact&langs_count=12&theme=tokyonight&hide_border=false&bg_color=0d1117" alt="Most Used Languages" width="100%" height="200px" />
       </td>
     </tr>
     <tr>
