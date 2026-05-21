@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Josef&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Software%20Engineer&descAlignY=60&descSize=22" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm Josef</h1>
 <h3 align="center">
 Computer Science Student at TU Dortmund  
@@ -116,6 +118,14 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 
 ---
 
+### 🌍 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/English-C1-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/German-C1-blue?style=for-the-badge" />
+</p>
+
+---
+
 ### ⚡ Fun Facts
 
 - ♟ Chess player (Lichess rating ~1850)
@@ -147,3 +157,5 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
     />
   </picture>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
