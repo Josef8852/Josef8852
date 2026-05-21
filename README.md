@@ -56,7 +56,7 @@
 
 **🖥️ Backend & Runtime**
 
-<img src="https://skills.syvixor.com/api/icons?i=nodejs"/>
+<img src="https://skills.syvixor.com/api/icons?i=nodejs,supabase"/>
 
 **🔧 Tools**
 
