@@ -150,26 +150,18 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <table border="0" width="80%">
+  <table border="0" width="100%">
     <tr>
-      <td align="center">
-        <a href="https://github.com/Josef8852/github-readme-stats-fast">
-          <img src="https://github-readme-stats-fast.vercel.app/api?username=Josef8852&theme=tokyonight&count_private=true&show_icons=true&hide_border=false&bg_color=0d1117" alt="Josef's GitHub stats" width="80%" />
-        </a>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Josef8852&theme=tokyonight&count_private=true&show_icons=true&hide_border=false&bg_color=0d1117" alt="Josef's GitHub stats" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josef8852&layout=compact&langs_count=12&theme=tokyonight&hide_border=false&bg_color=0d1117" alt="Most Used Languages" width="100%" />
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josef8852&layout=compact&langs_count=12&theme=tokyonight&hide_border=false&bg_color=0d1117" alt="Most Used Languages" width="80%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=Josef8852&theme=tokyonight" />
-        </a>
+      <td align="center" colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Josef8852&theme=tokyonight" width="70%" />
       </td>
     </tr>
   </table>
