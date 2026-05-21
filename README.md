@@ -39,9 +39,6 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 <div align="center" >
   <img src="https://skills.syvixor.com/api/icons?perline=6&i=c,cpp,javascript,typescript,cmake,nodejs,reactjs,redux,nextjs,reactquery,reactrouter,vite,css3,sass,tailwindcss,styledcomponents,git,bash,uml"/>
 </div>
-  
-
-</div>
 
 ---
 
@@ -86,7 +83,11 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 </div>
 
 ### Contribution Graph
+<div align="center">
+
 [![Josef8852's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Josef8852&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 
 ---
@@ -119,17 +120,19 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 </div>
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
