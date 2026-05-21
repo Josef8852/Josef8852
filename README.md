@@ -103,13 +103,6 @@ Passionate about Software Engineering, C++ Systems Programming and Modern Web De
 
 ---
 
-### ⏱ WakaTime Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Josef8852&theme=tokyonight&bg_color=0d1117&hide_border=false&layout=compact" alt="WakaTime Stats"/>
-</div>
-
----
-
 ### 🔭 Current Focus
 - 🎓 **Studies:** Computer Science at **TU Dortmund**.
 - ⚡  **Learning:** Next.js, SQL, and Backend Development
