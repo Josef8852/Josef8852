@@ -67,7 +67,7 @@
 <div align="center">
   <table border="0" width="80%">
     <tr>
-      <td align="center" style="padding: 20px;" width="50%">
+      <td align="center" style="padding: 20px;">
         <h3>🐚 Build Your Own Shell</h3>
         <p>A <strong>CodeCrafters</strong> challenge — built a fully functional POSIX-compliant shell from scratch.<br/>
         Supports builtins, piping, I/O redirections, and process management.</p>
@@ -81,7 +81,9 @@
         <br/><br/>
         <img src="https://skills.syvixor.com/api/icons?i=cpp,cmake" height="36" />
       </td>
-      <td align="center" style="padding: 20px;" width="50%">
+    </tr>
+    <tr>
+      <td align="center" style="padding: 20px;">
         <h3>🏨 React Hotel Website</h3>
         <p>A full-stack luxury cabin booking platform built with the latest <strong>Next.js App Router</strong> architecture.<br/>
         Google OAuth login, date-range booking, cabin filtering, and full reservation management — zero client-side fetching.</p>
@@ -93,7 +95,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center" style="padding: 20px;" colspan="2">
+      <td align="center" style="padding: 20px;">
         <h3>🏨 The React Hotel</h3>
         <p>A modern hotel management web application for hotel staff — manage bookings, cabins, and guests through a clean dashboard interface.<br/>
         Features booking analytics, cabin pricing, guest tracking, payment status, and advanced filter &amp; sort — fully responsive.</p>
