@@ -1,6 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b27,100:0d1117&height=200&section=header&text=Josef&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Software%20Engineer&descAlignY=60&descSize=22" width="100%"/>
-
-<h3 align="center">Passionate about Software Engineering, C++ Systems Programming and Modern Web Development</h3>
+<div align="center">
+  <br/>
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
+    Hi, I'm Josef
+  </h1>
+  <p>
+    <strong>CS Student</strong> at TU Dortmund &nbsp;·&nbsp;
+    <strong>Junior Software Engineer</strong> &nbsp;·&nbsp;
+    <strong>C++ Systems</strong> &amp; <strong>Modern Web</strong> Developer
+  </p>
+  <br/>
+</div>
 
 <p align="center">
 &nbsp;
@@ -185,5 +195,3 @@
     />
   </picture>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b27,100:0d1117&height=100&section=footer" width="100%"/>
