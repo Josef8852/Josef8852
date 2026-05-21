@@ -40,6 +40,12 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-Werkstudent%20%7C%20Internship-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
 </p>
 
+<p align="center">
+  I'm a Computer Science student at TU Dortmund with a passion for building things from the ground up —<br/>
+  whether that's a shell in C++, a full-stack web app, or anything in between.<br/>
+  I enjoy clean code, good architecture, and turning ideas into real working software.
+</p>
+
 ---
 
 ### 🛠 Skills
