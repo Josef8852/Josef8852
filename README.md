@@ -67,7 +67,7 @@
 <div align="center">
   <table border="0" width="80%">
     <tr>
-      <td align="center" style="padding: 20px;">
+      <td align="center" style="padding: 20px;" width="50%">
         <h3>🐚 Build Your Own Shell</h3>
         <p>A <strong>CodeCrafters</strong> challenge — built a fully functional POSIX-compliant shell from scratch.<br/>
         Supports builtins, piping, I/O redirections, and process management.</p>
@@ -80,6 +80,16 @@
         </a>
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=cpp,cmake" />
+      </td>
+      <td align="center" style="padding: 20px;" width="50%">
+        <h3>🏨 React Hotel Website</h3>
+        <p>A full-stack luxury cabin booking platform built with the latest <strong>Next.js App Router</strong> architecture.<br/>
+        Google OAuth login, date-range booking, cabin filtering, and full reservation management — zero client-side fetching.</p>
+        <a href="https://github.com/Josef8852/react-hotel-website">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase" />
       </td>
     </tr>
   </table>
