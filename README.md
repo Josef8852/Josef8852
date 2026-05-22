@@ -186,7 +186,11 @@
 ---
 
 ### ⚡ Fun Facts
-- ♟ Chess player (Lichess rating ~1850)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Chess-~1850%20ELO-769656?style=for-the-badge&logo=lichess&logoColor=white" alt="Chess Rating"/>
+</p>
+
 - 🐧 Linux enthusiast
 - 🎮 Interested in game development with C++
 
