@@ -189,10 +189,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Chess-~1850%20ELO-769656?style=for-the-badge&logo=lichess&logoColor=white" alt="Chess Rating"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Linux-Daily%20Driver-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Game%20Dev-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Game Dev"/>
 </p>
-
-- 🐧 Linux enthusiast
-- 🎮 Interested in game development with C++
 
 ---
 
