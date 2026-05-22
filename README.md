@@ -187,9 +187,9 @@
 
 ### ⚡ Fun Facts
 
-- ♟ Chess player &nbsp; <img src="https://img.shields.io/badge/~1850%20ELO-769656?style=flat-square&logo=lichess&logoColor=white" alt="Chess Rating" style="vertical-align:middle"/>
-- 🐧 Linux daily driver &nbsp; <img src="https://img.shields.io/badge/Ubuntu-FCC624?style=flat-square&logo=ubuntu&logoColor=black" alt="Ubuntu" style="vertical-align:middle"/>
-- 🎮 Interested in game development &nbsp; <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" style="vertical-align:middle"/>
+- ♟ Chess player (rated ~1850)
+- 🐧 Linux daily driver
+- 🎮 Interested in game development with C++
 
 ---
 
