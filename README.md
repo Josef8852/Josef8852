@@ -40,18 +40,11 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-Werkstudent%20%7C%20Internship-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
 </p>
 
-<table border="0" align="center" width="80%">
-  <tr>
-    <td align="left" valign="middle">
-      🖥️ I build things — from low-level <strong>C++ systems</strong> to full-stack <strong>web apps</strong><br/>
-      ⚡ Obsessed with clean architecture, performance &amp; modern tooling<br/>
-      🐧 Daily driving Linux
-    </td>
-    <td align="center" valign="middle" width="150">
-      <img src="https://raw.githubusercontent.com/Josef8852/Josef8852/main/tux-pixel.svg" width="120" alt="Pixel Art Tux"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  🖥️ I build things — from low-level <strong>C++ systems</strong> to full-stack <strong>web apps</strong><br/>
+  ⚡ Obsessed with clean architecture, performance &amp; modern tooling<br/>
+  🐧 Daily driving Linux
+</p>
 
 ---
 
