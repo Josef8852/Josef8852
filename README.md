@@ -79,6 +79,19 @@
 
 ---
 
+### 🖥️ My Setup
+
+<div align="center">
+
+| | Machine | CPU | GPU | OS |
+|---|---|---|---|---|
+| 💻 | Lenovo Legion 5 | Intel Core Ultra 7 | RTX 5070 | Windows |
+| 🐧 | Dev Laptop | Intel Core i3 | — | Ubuntu |
+
+</div>
+
+---
+
 ### 🌍 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/English-C1-blue?style=for-the-badge" />
