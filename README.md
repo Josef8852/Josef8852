@@ -187,13 +187,9 @@
 
 ### ⚡ Fun Facts
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Chess-~1850%20ELO-769656?style=for-the-badge&logo=lichess&logoColor=white" alt="Chess Rating"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Linux-Daily%20Driver-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Game%20Dev-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Game Dev"/>
-</p>
+- ♟ Chess player &nbsp; <img src="https://img.shields.io/badge/~1850%20ELO-769656?style=flat-square&logo=lichess&logoColor=white" alt="Chess Rating" style="vertical-align:middle"/>
+- 🐧 Linux daily driver &nbsp; <img src="https://img.shields.io/badge/Ubuntu-FCC624?style=flat-square&logo=ubuntu&logoColor=black" alt="Ubuntu" style="vertical-align:middle"/>
+- 🎮 Interested in game development &nbsp; <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" style="vertical-align:middle"/>
 
 ---
 
