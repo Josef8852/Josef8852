@@ -209,13 +209,6 @@
 
 ---
 
-### ⚡ Fun Facts
-
-- ♟ Chess player (rated ~1850)
-- 🐧 Linux daily driver
-- 🎮 Interested in game development with C++
-
----
 
 ### ✍️ Random Dev Quote
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
