@@ -82,12 +82,23 @@
 ### 🖥️ My Setup
 
 <div align="center">
-
-| | Machine | CPU | GPU | OS |
-|---|---|---|---|---|
-| 💻 | Lenovo Legion 5 | Intel Core Ultra 7 | RTX 5070 | Windows |
-| 🐧 | Dev Laptop | Intel Core i3 | — | Ubuntu |
-
+  <table border="0" width="80%">
+    <tr>
+      <td align="center" width="50%" style="padding: 20px;">
+        <h3>💻 Main Machine</h3>
+        <img src="https://img.shields.io/badge/Lenovo%20Legion%205-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Intel%20Core%20Ultra%207-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+        <img src="https://img.shields.io/badge/RTX%205070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+      </td>
+      <td align="center" width="50%" style="padding: 20px;">
+        <h3>🐧 Dev Machine</h3>
+        <img src="https://img.shields.io/badge/Daily%20Driver-333333?style=for-the-badge&logo=linux&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Intel%20Core%20i3-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
