@@ -41,9 +41,7 @@
 </p>
 
 <p align="center">
-  🖥️ I build things — from low-level <strong>C++ systems</strong> to full-stack <strong>web apps</strong><br/>
-  ⚡ Obsessed with clean architecture, performance &amp; modern tooling<br/>
-  🐧 Daily driving Linux
+  <img src="https://raw.githubusercontent.com/Josef8852/Josef8852/main/terminal.svg" width="480" alt="Terminal"/>
 </p>
 
 ---
