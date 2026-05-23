@@ -84,7 +84,7 @@
     <tr>
       <td align="center" width="50%" style="padding: 20px;">
         <h3>💻 Main Machine</h3>
-        <img src="https://img.shields.io/badge/Lenovo%20Legion%205-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Lenovo%20Legion%205%20Pro-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" /><br/><br/>
         <img src="https://img.shields.io/badge/Intel%20Core%20Ultra%207-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
         <img src="https://img.shields.io/badge/RTX%205070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
         <img src="https://img.shields.io/badge/32GB%20RAM-555555?style=for-the-badge&logoColor=white" />
