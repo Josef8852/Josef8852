@@ -211,9 +211,8 @@
 
 
 ### ✍️ Random Dev Quote
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-  <img src="https://octodex.github.com/images/hacktocat.jpg" height="160px" width="160px" alt="Octodex Gif"/>
 </div>
 
 <p align="center">
