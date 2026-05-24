@@ -193,6 +193,13 @@
 
 ---
 
+### 🧩 LeetCode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Josef8852?theme=dark&font=Fira%20Code&ext=heatmap" alt="Josef's LeetCode Stats" />
+</div>
+
+---
+
 ### Contribution Graph
 <div align="center">
 
