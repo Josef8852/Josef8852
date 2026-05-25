@@ -115,7 +115,6 @@
 - 🎓 **Studies:** Computer Science at **TU Dortmund**
 - ⚡ **Learning:** Next.js, SQL, and Backend Development
 - 🤝 **Open Source:** Interested in open source collaboration
-- 💼 **Seeking:** Werkstudent / Internship in Software Engineering
 
 ---
 

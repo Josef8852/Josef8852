@@ -1,26 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" width="480" height="280">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 375" width="480" height="375">
 <title>Terminal — Josef8852</title>
 <style>
-  text, tspan { font-family: 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; font-size: 13px; }
-  @keyframes appear { from { opacity:0 } to { opacity:1 } }
-  @keyframes blink  { 0%,100% { opacity:1 } 50% { opacity:0 } }
-  .l1  { animation: appear .3s ease forwards  .3s; opacity:0 }
-  .l2  { animation: appear .3s ease forwards  .7s; opacity:0 }
-  .l3  { animation: appear .3s ease forwards  .9s; opacity:0 }
-  .l4  { animation: appear .3s ease forwards 1.4s; opacity:0 }
-  .l5  { animation: appear .3s ease forwards 1.8s; opacity:0 }
-  .l6  { animation: appear .3s ease forwards 2.0s; opacity:0 }
-  .l7  { animation: appear .3s ease forwards 2.2s; opacity:0 }
-  .l8  { animation: appear .3s ease forwards 2.7s; opacity:0 }
-  .l9  { animation: appear .3s ease forwards 3.1s; opacity:0 }
-  .l10 { animation: appear .3s ease forwards 3.3s; opacity:0 }
-  .l11 { animation: appear .3s ease forwards 3.7s; opacity:0 }
-  .cur { animation: appear .1s ease forwards 3.7s, blink 1s step-end 4.0s infinite; opacity:0 }
+  text { font-family: 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; font-size:10px; }
+  @keyframes appear { from{opacity:0} to{opacity:1} }
+  @keyframes blink  { 0%,100%{opacity:1} 50%{opacity:0} }
+  .cmd { animation: appear .4s ease forwards  .3s; opacity:0 }
+  .out { animation: appear .5s ease forwards  .9s; opacity:0 }
+  .cur { animation: appear .1s ease forwards 1.5s, blink 1s step-end 1.6s infinite; opacity:0 }
 </style>
 
-<!-- Window background -->
-<rect width="480" height="280" rx="8" fill="#0d1117"/>
-<rect width="480" height="280" rx="8" fill="none" stroke="#30363d" stroke-width="1"/>
+<!-- Background -->
+<rect width="480" height="375" rx="8" fill="#0d1117"/>
+<rect width="480" height="375" rx="8" fill="none" stroke="#30363d" stroke-width="1"/>
 
 <!-- Title bar -->
 <rect width="480" height="36" rx="8" fill="#161b22"/>
@@ -35,27 +26,61 @@
 <text x="240" y="23" text-anchor="middle" fill="#8b949e" font-size="12"
   font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">~/Josef8852 — bash</text>
 
-<!-- ❯ whoami -->
-<text class="l1" x="16" y="62" fill="#e6edf3"><tspan fill="#2DD4BF">❯ </tspan>whoami</text>
+<!-- ❯ neofetch command -->
+<text class="cmd" x="16" y="56" fill="#e6edf3"><tspan fill="#2DD4BF">❯ </tspan>neofetch</text>
 
-<text class="l2" x="16" y="80"  fill="#8b949e"><tspan fill="#3fb950">Josef</tspan><tspan> — CS Student @ </tspan><tspan fill="#e6edf3">TU Dortmund</tspan></text>
-<text class="l3" x="16" y="98"  fill="#8b949e">Junior Software Engineer — <tspan fill="#e6edf3">C++ Systems &amp; Modern Web</tspan></text>
+<!-- Neofetch output -->
+<g class="out">
 
-<!-- ❯ cat about.me -->
-<text class="l4" x="16" y="124" fill="#e6edf3"><tspan fill="#2DD4BF">❯ </tspan>cat about.me</text>
+  <!-- Ubuntu ASCII art — Ubuntu orange #E95420 -->
+  <text x="16" y="76"  fill="#E95420">           .-/+oossssoo+/-.</text>
+  <text x="16" y="90"  fill="#E95420">        `:+ssssssssssssssssss+:`</text>
+  <text x="16" y="104" fill="#E95420">      -+ssssssssssssssssssyyssss+-</text>
+  <text x="16" y="118" fill="#E95420">    .ossssssssssssssssss dMMMNysssso.</text>
+  <text x="16" y="132" fill="#E95420">   /ssssssssssshdmmNNmmyNMMMMhssssss\</text>
+  <text x="16" y="146" fill="#E95420">  +ssssssssshmydMMMMMMMNddddyssssssss+</text>
+  <text x="16" y="160" fill="#E95420"> /sssssssshNMMMyhhyyyyhmNMMMNhssssssss\</text>
+  <text x="16" y="174" fill="#E95420">.ssssssssdMMMNhsssssssssshNMMMdssssssss.</text>
+  <text x="16" y="188" fill="#E95420">+sssshhhyNMMNyssssssssssssyNMMMysssssss+</text>
+  <text x="16" y="202" fill="#E95420">ossyNMMMNyMMhsssssssssssssshmmmhssssssso</text>
+  <text x="16" y="216" fill="#E95420">ossyNMMMNyMMhsssssssssssssshmmmhssssssso</text>
+  <text x="16" y="230" fill="#E95420">+sssshhhyNMMNyssssssssssssyNMMMysssssss+</text>
+  <text x="16" y="244" fill="#E95420">.ssssssssdMMMNhsssssssssshNMMMdssssssss.</text>
+  <text x="16" y="258" fill="#E95420"> \sssssssshNMMMyhhyyyyhmNMMMNhssssssss/</text>
+  <text x="16" y="272" fill="#E95420">  +ssssssssshmydMMMMMMMNddddyssssssss+</text>
+  <text x="16" y="286" fill="#E95420">   \ssssssssshdmmNNNNmmyNMMMMhssssss/</text>
+  <text x="16" y="300" fill="#E95420">    .ossssssssssssssssss dMMMNysssso.</text>
+  <text x="16" y="314" fill="#E95420">      -+sssssssssssssssssyyyssss+-</text>
+  <text x="16" y="328" fill="#E95420">        `:+ssssssssssssssssss+:`</text>
+  <text x="16" y="342" fill="#E95420">           .-/+oossssoo+/-.</text>
 
-<text class="l5" x="16" y="142" fill="#8b949e">▸  Building <tspan fill="#e6edf3">C++ systems</tspan> &amp; full-stack <tspan fill="#e6edf3">web apps</tspan></text>
-<text class="l6" x="16" y="160" fill="#8b949e">▸  Linux daily driver  ·  Chess player <tspan fill="#e6edf3">~1850 rated</tspan></text>
-<text class="l7" x="16" y="178" fill="#8b949e">▸  Obsessed with clean architecture &amp; performance</text>
+  <!-- System info — right column -->
+  <text x="280" y="76"><tspan fill="#2DD4BF" font-weight="bold">josef</tspan><tspan fill="#e6edf3">@</tspan><tspan fill="#2DD4BF" font-weight="bold">josef</tspan></text>
+  <text x="280" y="90"  fill="#8b949e">-----------</text>
+  <text x="280" y="104"><tspan fill="#2DD4BF">OS:      </tspan><tspan fill="#e6edf3">Ubuntu 24.04.4 LTS x86_64</tspan></text>
+  <text x="280" y="118"><tspan fill="#2DD4BF">Host:    </tspan><tspan fill="#e6edf3">IdeaPad S145-14IWL</tspan></text>
+  <text x="280" y="132"><tspan fill="#2DD4BF">Kernel:  </tspan><tspan fill="#e6edf3">6.17.0-29-generic</tspan></text>
+  <text x="280" y="146"><tspan fill="#2DD4BF">Shell:   </tspan><tspan fill="#e6edf3">bash 5.2.21</tspan></text>
+  <text x="280" y="160"><tspan fill="#2DD4BF">DE:      </tspan><tspan fill="#e6edf3">GNOME 46.0</tspan></text>
+  <text x="280" y="174"><tspan fill="#2DD4BF">Theme:   </tspan><tspan fill="#e6edf3">Dracula</tspan></text>
+  <text x="280" y="188"><tspan fill="#2DD4BF">CPU:     </tspan><tspan fill="#e6edf3">i3-8145U @ 2.1GHz</tspan></text>
+  <text x="280" y="202"><tspan fill="#2DD4BF">GPU:     </tspan><tspan fill="#e6edf3">Intel UHD 620</tspan></text>
+  <text x="280" y="216"><tspan fill="#2DD4BF">Memory:  </tspan><tspan fill="#e6edf3">2907 / 7820 MiB</tspan></text>
 
-<!-- ❯ cat status.txt -->
-<text class="l8"  x="16" y="204" fill="#e6edf3"><tspan fill="#2DD4BF">❯ </tspan>cat status.txt</text>
+  <!-- Dracula color palette blocks -->
+  <rect x="280" y="228" width="14" height="10" rx="2" fill="#282a36"/>
+  <rect x="296" y="228" width="14" height="10" rx="2" fill="#ff5555"/>
+  <rect x="312" y="228" width="14" height="10" rx="2" fill="#50fa7b"/>
+  <rect x="328" y="228" width="14" height="10" rx="2" fill="#f1fa8c"/>
+  <rect x="344" y="228" width="14" height="10" rx="2" fill="#6272a4"/>
+  <rect x="360" y="228" width="14" height="10" rx="2" fill="#ff79c6"/>
+  <rect x="376" y="228" width="14" height="10" rx="2" fill="#8be9fd"/>
+  <rect x="392" y="228" width="14" height="10" rx="2" fill="#f8f8f2"/>
 
-<text class="l9"  x="16" y="222" fill="#8b949e">▸  Open to:   <tspan fill="#e6edf3">Werkstudent / Internship</tspan></text>
-<text class="l10" x="16" y="240" fill="#8b949e">▸  Learning:  <tspan fill="#e6edf3">Next.js  ·  Backend Development</tspan></text>
+</g>
 
-<!-- ❯ blinking cursor -->
-<text class="l11" x="16" y="264" fill="#2DD4BF">❯ </text>
-<rect class="cur" x="32" y="252" width="8" height="14" fill="#2DD4BF"/>
+<!-- Blinking cursor -->
+<text class="cur" x="16" y="358" fill="#2DD4BF">❯ </text>
+<rect class="cur" x="32" y="346" width="7" height="12" fill="#2DD4BF"/>
 
 </svg>
