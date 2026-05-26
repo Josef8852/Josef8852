@@ -215,7 +215,7 @@
 
 ### 🏆 Trophies
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Josef8852&theme=tokyonight&row=1&no-bg=true&margin-w=8" alt="Josef's Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Josef8852&theme=tokyonight&row=2&no-bg=true&margin-w=8" alt="Josef's Trophies"/>
 </div>
 
 ---
