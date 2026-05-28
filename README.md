@@ -56,7 +56,7 @@
 
 **🎨 Frontend**
 
-<img src="https://skills.syvixor.com/api/icons?perline=5&i=reactjs,nextjs,redux,reactquery,reactrouter,vite,tailwindcss,sass,css3,styledcomponents"/>
+<img src="https://skills.syvixor.com/api/icons?perline=5&i=reactjs,nextjs,redux,reactquery,reactrouter,tailwindcss,css3,vite"/>
 
 **🖥️ Backend & Runtime**
 
