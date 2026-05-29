@@ -136,18 +136,6 @@
     </tr>
     <tr>
       <td align="center" style="padding: 20px;">
-        <h3>🟣 SFML Bounce Game</h3>
-        <p>A <strong>2D Paddle/Bounce Game</strong> written in <strong>C++20</strong> using <strong>SFML 3</strong>, built with CMake.<br/>
-        Features a real-time game loop, collision detection, audio integration, and OOP-driven architecture across multiple components.</p>
-        <a href="https://github.com/Josef8852/sfml-bounce-game">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-        <br/><br/>
-        <img src="https://skills.syvixor.com/api/icons?i=cpp,cmake" height="36" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 20px;">
         <h3>🏨 Full-Stack Cabin Booking Website</h3>
         <p>A full-stack luxury cabin booking platform built with the latest <strong>Next.js App Router</strong> architecture.<br/>
         Google OAuth login, date-range booking, cabin filtering, and full reservation management — zero client-side fetching.</p>
@@ -176,6 +164,18 @@
         </a>
         <br/><br/>
         <img src="https://skills.syvixor.com/api/icons?i=typescript,reactjs,supabase,reactquery,vite" height="36" />
+      </td>
+    </tr>
+       <tr>
+      <td align="center" style="padding: 20px;">
+        <h3>🟣 SFML Bounce Game</h3>
+        <p>A <strong>2D Paddle/Bounce Game</strong> written in <strong>C++20</strong> using <strong>SFML 3</strong>, built with CMake.<br/>
+        Features a real-time game loop, collision detection, audio integration, and OOP-driven architecture across multiple components.</p>
+        <a href="https://github.com/Josef8852/sfml-bounce-game">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <br/><br/>
+        <img src="https://skills.syvixor.com/api/icons?i=cpp,cmake" height="36" />
       </td>
     </tr>
   </table>
