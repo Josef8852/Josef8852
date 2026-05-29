@@ -131,7 +131,7 @@
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
         </a>
         <br/><br/>
-        <img src="https://skills.syvixor.com/api/icons?i=cpp,cmake" height="36" />
+        <img src="https://skills.syvixor.com/api/icons?i=cpp,cmake,bash" height="36" />
       </td>
     </tr>
     <tr>
