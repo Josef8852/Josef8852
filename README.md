@@ -132,6 +132,7 @@
         </a>
         <br/><br/>
         <img src="https://skills.syvixor.com/api/icons?i=cpp,cmake,bash" height="36" />
+          <img src="https://img.shields.io/badge/GNU%20readline-8.x-A42E2B?logo=gnubash&logoColor=white" alt="readline" height="60"/>
       </td>
     </tr>
     <tr>
