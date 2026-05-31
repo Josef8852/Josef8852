@@ -52,7 +52,7 @@
 
 **⚙️ Languages**
 
-<img src="https://skills.syvixor.com/api/icons?i=cpp,typescript"/>
+<img src="https://skills.syvixor.com/api/icons?i=c,cpp,typescript"/>
 
 **🎨 Frontend**
 
