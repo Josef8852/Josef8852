@@ -7,7 +7,6 @@
   <p>
     <strong>CS Student</strong> at TU Dortmund &nbsp;·&nbsp;
     <strong>Junior Software Engineer</strong> &nbsp;·&nbsp;
-    <strong>C++ Systems</strong> &amp; <strong>Modern Web</strong> Developer
   </p>
   <br/>
 </div>
