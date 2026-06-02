@@ -6,7 +6,7 @@
   </h1>
   <p>
     <strong>CS Student</strong> at TU Dortmund &nbsp;·&nbsp;
-    <strong>Junior Software Engineer</strong> &nbsp;·&nbsp;
+    <strong>Junior Software Engineer</strong> &nbsp;
   </p>
   <br/>
 </div>
