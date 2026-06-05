@@ -195,7 +195,7 @@
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Josef8852&theme=tokyonight" width="70%" />
+        <img src="https://streak-stats.demolab.com?user=Josef8852&theme=tokyonight" width="70%" />
       </td>
     </tr>
   </table>
