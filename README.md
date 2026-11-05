@@ -2,7 +2,9 @@
 
 # Hi, I'm Josef 👋
 
-**Computer Science Student @ TU Dortmund** 
+**Angewandte Informatik @ TU Dortmund** · Anwendungsfach Robotik
+<br/>
+
 
 <a href="mailto:josef.shady@tu-dortmund.de"><img src="https://raw.githubusercontent.com/Josef8852/Josef8852/main/tudortmund.svg" width="36"></a>
 <a href="mailto:josefaboushady@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36"></a>
@@ -24,25 +26,25 @@
 <br/><br/>
 <img src="https://skills.syvixor.com/api/icons?i=cpp,c,typescript"/>
 
-<br/>
+<br/><br/>
 
 **Frontend**
 <br/><br/>
 <img src="https://skills.syvixor.com/api/icons?perline=7&i=reactjs,nextjs,redux,reactquery,reactrouter,tailwindcss,css3"/>
 
-<br/>
+<br/><br/>
 
 **Backend**
 <br/><br/>
 <img src="https://skills.syvixor.com/api/icons?i=nodejs,supabase"/>
 
-<br/>
+<br/><br/>
 
 **Tools**
 <br/><br/>
 <img src="https://skills.syvixor.com/api/icons?i=git,cmake,vite,bash,linux"/>
 
-<br/>
+<br/><br/>
 
 </div>
 
@@ -115,6 +117,5 @@
 
 ### 🔭 Currently
 
-- 🎓 Studying Applied Computer Science at TU Dortmund (minor: Robotics)
 - ⚡ Learning SQL and backend development
 - 🌍 English C1 · German C1
