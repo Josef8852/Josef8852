@@ -18,14 +18,25 @@
 
 <div align="center">
 
-**Languages** <br/>
+<br/>
+
+**Languages**
+<br/><br/>
 <img src="https://skills.syvixor.com/api/icons?i=cpp,c,typescript"/>
 
-**Frontend** <br/>
+<br/><br/>
+
+**Frontend**
+<br/><br/>
 <img src="https://skills.syvixor.com/api/icons?perline=8&i=reactjs,nextjs,redux,reactquery,reactrouter,tailwindcss,css3,vite"/>
 
-**Backend & Tools** <br/>
+<br/><br/>
+
+**Backend & Tools**
+<br/><br/>
 <img src="https://skills.syvixor.com/api/icons?i=nodejs,supabase,cmake,git,bash,linux"/>
+
+<br/><br/>
 
 </div>
 
