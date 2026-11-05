@@ -24,6 +24,7 @@
 
 **Languages**
 <br/>
+<br/>
 <img src="https://skills.syvixor.com/api/icons?i=cpp,c,typescript"/>
 
 <br/>
@@ -41,6 +42,7 @@
 <br/>
 
 **Tools**
+<br/>
 <br/>
 <img src="https://skills.syvixor.com/api/icons?i=git,cmake,vite,bash,linux"/>
 
