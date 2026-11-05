@@ -2,7 +2,7 @@
 
 # Hi, I'm Josef 👋
 
-**Computer Science Student @ TU Dortmund** · Web Development & C++ · Linux
+**Computer Science Student @ TU Dortmund** 
 
 <a href="mailto:josef.shady@tu-dortmund.de"><img src="https://raw.githubusercontent.com/Josef8852/Josef8852/main/tudortmund.svg" width="36"></a>
 <a href="mailto:josefaboushady@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36"></a>
