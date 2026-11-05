@@ -24,25 +24,25 @@
 <br/><br/>
 <img src="https://skills.syvixor.com/api/icons?i=cpp,c,typescript"/>
 
-<br/><br/>
+<br/>
 
 **Frontend**
 <br/><br/>
 <img src="https://skills.syvixor.com/api/icons?perline=7&i=reactjs,nextjs,redux,reactquery,reactrouter,tailwindcss,css3"/>
 
-<br/><br/>
+<br/>
 
 **Backend**
 <br/><br/>
 <img src="https://skills.syvixor.com/api/icons?i=nodejs,supabase"/>
 
-<br/><br/>
+<br/>
 
 **Tools**
 <br/><br/>
 <img src="https://skills.syvixor.com/api/icons?i=git,cmake,vite,bash,linux"/>
 
-<br/><br/>
+<br/>
 
 </div>
 
