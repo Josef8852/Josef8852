@@ -115,9 +115,3 @@
   </table>
 </div>
 
----
-
-### 🔭 Currently
-
-- ⚡ Learning SQL and backend development
-- 🌍 English C1 · German C1
